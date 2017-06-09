@@ -1,6 +1,7 @@
 # this file is generated via https://github.com/nodejs/docker-node/blob/a8eef541ef29ae81f53f0fdd177ec20bbead3ed2/generate-stackbrew-library.sh
 
 Maintainers: The Node.js Docker Team <https://github.com/nodejs/docker-node> (@nodejs)
+PR Bot Maintainer: Hank Brekke <brekkehj@hnryjms.io> (@hnryjms)
 GitRepo: https://github.com/nodejs/docker-node.git
 
 Tags: 8.1.0, 8.1, 8, latest
